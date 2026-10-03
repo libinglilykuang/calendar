@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Libing Kuang//Cambridge Cognition and the Brain 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cognition and the Brain 2026-27
+X-WR-TIMEZONE:Europe/London
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cognitionbrain-20261006-1430@calendar
+DTSTART;TZID=Europe/London:20261006T143000
+DTEND;TZID=Europe/London:20261006T153000
+SUMMARY:Cognition & Brain — Introduction to Cognition and the Brain
+DESCRIPTION:Lecturer: Prof Camilla Nord
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261006-1600@calendar
+DTSTART;TZID=Europe/London:20261006T160000
+DTEND;TZID=Europe/London:20261006T173000
+SUMMARY:Cognition & Brain — Semantic Cognition
+DESCRIPTION:Lecturer: Prof Matt Lambon Ralph
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261007-1500@calendar
+DTSTART;TZID=Europe/London:20261007T150000
+DTEND;TZID=Europe/London:20261007T163000
+SUMMARY:Cognition & Brain — Cognitive Computational Neuroscience of Vision
+DESCRIPTION:Lecturer: Dr Kamila Jóźwik\nCombining behaviour\, neuroimaging\, and biologically-inspired deep learning
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261013-1500@calendar
+DTSTART;TZID=Europe/London:20261013T150000
+DTEND;TZID=Europe/London:20261013T163000
+SUMMARY:Cognition & Brain — Basic Mechanisms of Acoustic and Electric Auditory Perception
+DESCRIPTION:Lecturer: Dr Charlotte Garcia
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261014-1500@calendar
+DTSTART;TZID=Europe/London:20261014T150000
+DTEND;TZID=Europe/London:20261014T163000
+SUMMARY:Cognition & Brain — The sense of hearing
+DESCRIPTION:Lecturer: Dr Francois Guerit\nConsequences of its loss / use of computational models to improve assistive hearing devices
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261020-1500@calendar
+DTSTART;TZID=Europe/London:20261020T150000
+DTEND;TZID=Europe/London:20261020T163000
+SUMMARY:Cognition & Brain — Why we have emotions
+DESCRIPTION:Lecturer: Prof Tim Dalgleish\nThere's no point crying over spilt milk... or is there? Why we have emotions and why we can't manage without them.
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261021-1500@calendar
+DTSTART;TZID=Europe/London:20261021T150000
+DTEND;TZID=Europe/London:20261021T163000
+SUMMARY:Cognition & Brain — Genomic Disorders and Cognitive Development
+DESCRIPTION:Lecturer: Dr Kate Baker
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261027-1500@calendar
+DTSTART;TZID=Europe/London:20261027T150000
+DTEND;TZID=Europe/London:20261027T163000
+SUMMARY:Cognition & Brain — The Cognitive Neuroscience of Human Memory
+DESCRIPTION:Lecturer: Prof Rik Henson
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261028-1500@calendar
+DTSTART;TZID=Europe/London:20261028T150000
+DTEND;TZID=Europe/London:20261028T163000
+SUMMARY:Cognition & Brain — Memory Suppression
+DESCRIPTION:Lecturer: Prof Mike Anderson
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261103-1500@calendar
+DTSTART;TZID=Europe/London:20261103T150000
+DTEND;TZID=Europe/London:20261103T163000
+SUMMARY:Cognition & Brain — Cortical Reorganisation
+DESCRIPTION:Lecturer: Prof Tamar Makin
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261104-1500@calendar
+DTSTART;TZID=Europe/London:20261104T150000
+DTEND;TZID=Europe/London:20261104T163000
+SUMMARY:Cognition & Brain — Computational Cognitive Neuroscience of Speech Understanding
+DESCRIPTION:Lecturer: Dr Matt Davis
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261110-1500@calendar
+DTSTART;TZID=Europe/London:20261110T150000
+DTEND;TZID=Europe/London:20261110T163000
+SUMMARY:Cognition & Brain — Computational Psychiatry and Brain-Body Interactions
+DESCRIPTION:Lecturer: Prof Camilla Nord
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261111-1500@calendar
+DTSTART;TZID=Europe/London:20261111T150000
+DTEND;TZID=Europe/London:20261111T163000
+SUMMARY:Cognition & Brain — Generative Network Models and Systems Neuroscience
+DESCRIPTION:Lecturer: Prof Duncan Astle
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261118-1500@calendar
+DTSTART;TZID=Europe/London:20261118T150000
+DTEND;TZID=Europe/London:20261118T163000
+SUMMARY:Cognition & Brain — Neuropsychology and Neuropsychological Rehabilitation
+DESCRIPTION:Lecturer: Dr Tom Manly
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261124-1500@calendar
+DTSTART;TZID=Europe/London:20261124T150000
+DTEND;TZID=Europe/London:20261124T163000
+SUMMARY:Cognition & Brain — Intelligence\, Executive Function\, and the Brain
+DESCRIPTION:Lecturer: Prof John Duncan
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261125-1500@calendar
+DTSTART;TZID=Europe/London:20261125T150000
+DTEND;TZID=Europe/London:20261125T163000
+SUMMARY:Cognition & Brain — Brain mechanisms of flexible cognitive control
+DESCRIPTION:Lecturer: Prof Alexandra Woolgar
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+BEGIN:VEVENT
+UID:cognitionbrain-20261201-1500@calendar
+DTSTART;TZID=Europe/London:20261201T150000
+DTEND;TZID=Europe/London:20261201T163000
+SUMMARY:Cognition & Brain — Neuroscientific concepts of memory in a clinical context
+DESCRIPTION:Lecturer: Prof Thomas Cope
+LOCATION:MRC Cognition and Brain Sciences Unit\, 15 Chaucer Road\, Cambridge CB2 7EF
+END:VEVENT
+END:VCALENDAR
